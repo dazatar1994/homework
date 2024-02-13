@@ -1,13 +1,13 @@
 {
-  "name": "homework_nemtcov",
-  "version": "1.0.0",
-  "description": "",
+  "name": "nemtcov_homework",
+  "version": "0.0.1",
+  "description": "nemtcov_homework_netology",
   "main": "index.js",
   "bin": {
-    "give-date": "./index.js"
+    "minigame": "./index.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node index.js"
   },
   "author": "",
   "license": "ISC",
