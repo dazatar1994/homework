@@ -1,0 +1,23 @@
+{
+  "name": "purejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "simple-date": "./date.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "4.0",
+    "chalk": "2.4",
+    "clear": "^0.1.0",
+    "dotenv": "^16.4.4",
+    "express": "^4.18.2",
+    "figlet": "^1.7.0",
+    "yargs": "^17.7.2"
+  }
+}
